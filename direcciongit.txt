@@ -1,5 +1,3 @@
 
 REPOSITORIO GIT
 https://github.com/Noteverlasting/avesdecompania
-
-GITPAGES

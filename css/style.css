@@ -139,7 +139,7 @@ y añade un gap, aparte de indicar a las imágenes dentro de ella que tengan una
   width: 100%;
   max-width: var(--desktop-xl);
   gap: 2rem;
-  padding: 2rem 0;
+  padding: 2rem 2rem;
   img {
     width: 20vw;
   }
@@ -152,6 +152,10 @@ y añade un gap, aparte de indicar a las imágenes dentro de ella que tengan una
   width: 100%;
   max-width: var(--desktop-xl);
   gap: 2rem;
+
+  img {
+    border: 8px dotted var(--color-secundario);
+  }
 }
 
 /*ETIQUETAS*/
